@@ -1,0 +1,42 @@
+.Archivo{
+    font-family: 'Archivo Black';
+    color: white;
+}
+.titleimg{
+    width: 100vw;
+    height: 90vh;
+}
+.propic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+.res{
+    margin-left:70px;
+}
+
+.restext{
+    font-family: 'Archivo Black';
+    
+    color: black;
+    
+}
+p{
+    font-family: 'Space Mono';
+}
+.resbtn{
+    color: white;
+    text-decoration: none;
+}
+.projects{
+    margin: 70px;
+}
+.projtext{
+    font-family: 'Archivo Black';
+    text-decoration-line: none;
+    color: black;
+}
+.lp{
+    font-family: 'Space Mono';
+}
